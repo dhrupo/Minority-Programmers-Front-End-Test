@@ -1,0 +1,45 @@
+.use-image{
+    margin-bottom: 4rem;
+}
+.use-image img{
+    border: 10px solid #151371;
+    border-radius: 50%;
+    padding: 10px;
+    width: 260px;
+}
+.btn-blue{
+    background:  linear-gradient(0deg, #151371, #151371);
+    color: #fff;
+    border-radius: 15px;
+    transition: .3s;
+}
+.btn-blue:hover{
+    color: #fff;
+    background:  linear-gradient(0deg, #100f52, #0f0e55);
+}
+.user-info h1{
+    color: #fff;
+    font-weight: bold;
+    font-size: 42px;
+}
+.user-info p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    .user-info h1{
+        font-size: 25px !important;
+    }
+    .use-image{
+        margin-left: 3rem !important;
+    }
+}
+@media (max-width: 767px){
+    .user-info h1{
+        font-size: 25px !important;
+    }
+    .use-image{
+        margin-left: 3rem !important;
+    }
+}

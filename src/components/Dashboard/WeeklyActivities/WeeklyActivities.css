@@ -1,0 +1,27 @@
+.week-info h1{
+    font-weight: 600;
+    font-size: 42px;
+}
+.week-info h5{
+    font-size: 25px;
+}
+.week-info .progress{
+    background-color: #000 !important;
+    border-radius: 20px !important;
+}
+.week-info .info-progress-bar {
+    background: linear-gradient(90deg, #FFC700 0%, #FF655B 49.48%, #FF00B8 100%);
+    border: 2px solid rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.nextPrev-icons p{
+    font-size: 25px;
+    color: white;
+    transition: .2s;
+}
+.nextPrev-icons p:hover{
+    color: gray; 
+}
+.static-img{
+    background-image: url(../../../images//activity//activityImg-1.png);
+}

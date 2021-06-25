@@ -1,0 +1,24 @@
+.startupCardItem{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    border-radius: 15px;
+}
+.btn-outline-white{
+    color: #fff !important;
+    border: 1px solid #fff;
+    font-size: 14px;
+    line-height: 24px;
+    transition: all .3s ease;
+}
+.btn-outline-white:hover{
+    background-image: linear-gradient(#FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+    color: white !important;
+}
+.startupCardItem .card-body{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

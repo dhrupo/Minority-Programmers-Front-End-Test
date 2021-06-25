@@ -1,0 +1,24 @@
+.fundSidebar-style p{
+    font-weight: 500 !important;
+    color: black;
+    font-size: 13px;
+}
+.user-avatar{
+    background-color: #C4C4C4;
+    height: 40px;
+    width: 40px;
+    border-radius: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: all .3s;
+}
+.user-avatar:hover{
+    background-color: #afafaf;
+}
+.sidebar-tags button{
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    color: black;
+}

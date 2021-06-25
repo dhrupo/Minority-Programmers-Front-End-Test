@@ -1,0 +1,43 @@
+.startup-header{
+    border-radius: 15px 15px 0px 0px;
+    padding: 14px 0px;
+}
+.row{
+    --bs-gutter-x: 0px !important;
+}
+.arrow-icon{
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 22px;
+    cursor: pointer;
+}
+.arrow-icon:hover{
+    background-color: darkgray;
+}
+.progress{
+    height: 0.7rem !important;
+}
+.startup-header span{
+    font-size: 12px;
+}
+.fund-status{
+    font-size: 16px;
+}
+
+@media only screen and (min-width: 768px){
+    .startup-header .progress{
+        width: 80% !important;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .startupHeader-item{
+        margin-bottom: 1.25rem;
+        padding: 0px 30px;
+    }
+}

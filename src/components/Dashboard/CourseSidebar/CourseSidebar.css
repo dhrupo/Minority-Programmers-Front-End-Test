@@ -1,0 +1,59 @@
+.course-sidebar{
+    background-color: #151371;
+    color: #fff;
+    padding-bottom: 8rem;
+}
+.course-sidebar ul li{
+    list-style: none;
+}
+.back-course{
+    color: #dedcdc;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.back-course:hover{
+    color: #b9b8b8;
+}
+.back-course a{
+    text-decoration: none;
+    color: #dedcdc;
+}
+.course-sidebar a{
+    transition: .2s;
+}
+.course-sidebar a:hover{
+    color: rgb(192, 191, 191) !important;
+}
+.green-check,
+.white-check{
+    width: 25px;
+    height: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 22px;
+    cursor: pointer;
+    font-size: 12px;
+}
+.green-check{
+    background-color:#00AA4F;
+    border: 1px solid #018b41;
+}
+.white-check{
+    background-color:#fff;
+    border: 1px solid rgb(223, 222, 222);
+    color: rgb(61, 61, 61) !important;
+}
+
+@media (max-width: 767px){
+    .course-sidebar{
+        width: 100%;
+        padding-bottom: 2rem !important;
+    }
+    .back-course{
+        margin-left: 4px;
+    }
+    .weeks-info{
+        padding: 0px 15px;
+    }
+}

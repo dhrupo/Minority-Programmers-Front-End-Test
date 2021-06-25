@@ -1,0 +1,31 @@
+footer{
+    padding: 20px 0;
+    text-align: center;
+    background: linear-gradient(104.61deg, #FF00B8 2.65%, #FF655B 51.83%, #FFC700 100%);
+}
+.footer .social-icon {
+    margin-bottom: 0;
+}
+footer .social-icons li a {
+    display: block;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50px;
+    font-size: 17px;
+    margin: 10px 5px;
+    border: 1px solid transparent;
+    color: #2b2b2b;
+
+}
+footer .social-icons li a{
+    color: #fff; 
+}
+footer .social-icons li a:hover{
+  background:#34265f; 
+}
+footer .social-icons li a:hover{
+    color: #fff; 
+    transition: all .3s ease-in-out;
+}

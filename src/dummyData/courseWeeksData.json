@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 1",
+        "completionAverage": "100%",
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }
+        ] 
+    }, 
+    {
+        "id": 2,
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 2",
+        "completionAverage": "100%",
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }
+        ] 
+    }, {
+        "id": 3,
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 3",
+        "completionAverage": "100%",
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }
+        ] 
+    }, {
+        "id": 4,
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 4",
+        "completionAverage": "100%",
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }
+        ] 
+    }, {
+        "id": 5,
+        "name": "Fundamentals of Cryptocurrency",
+        "week": "Week 5",
+        "completionAverage": "100%",
+        "completionStatus": "Completed",
+        "completionRate": "10/10",
+        "activity": [
+            {
+                "id": 1,
+                "activityName": "Activity 1 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 2,
+                "activityName": "Activity 2 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 3,
+                "activityName": "Activity 3 - Create Avatar",
+                "image": "https://i.postimg.cc/Zqt1JShg/Create-Avatar.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 4,
+                "activityName": "Activity 4 - Join Clickup",
+                "image": "https://i.postimg.cc/W1Ww7m57/Join-Clickup.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }, {
+                "id": 5,
+                "activityName": "Activity 5 - Join Discord",
+                "image": "https://i.postimg.cc/pyNXBLcR/Join-Discord.png",
+                "status": "Completed",
+                "completionRate": "100",
+                "duration": "12 minutes",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus curabitur id consectetur fringilla. Sed eget hendrerit convallis erat. Sit diam, tincidunt ultricies et mauris morbi. Morbi dolor semper proin eu aenean nunc egestas quam id. Feugiat elit sed erat purus faucibus risus. Elementum velit lorem ullamcorper ultricies velit, massa eu eget. Eget id libero tempus faucibus arcu ullamcorper purus tellus. Vulputate urna cras consectetur cras tellus imperdiet massa lacus at. Facilisis mollis eleifend aenean eget consectetur nisl arcu. Aenean fringilla velit malesuada et non pharetra tristique. Arcu consequat vitae nulla lacus, mattis. Ante diam in dapibus arcu, mauris arcu. Non ultricies nec volutpat dictum. Viverra gravida in egestas congue at vestibulum quis in. Nibh suspendisse mauris volutpat est ultrices mi. Lectus cursus euismod id dictum et eget pharetra in. Purus ullamcorper laoreet mauris pretium lacus ridiculus. Pulvinar vitae elit dignissim vel. Et commodo amet mi, sed vitae enim etiam rutrum bibendum."
+            }
+        ] 
+    }
+]

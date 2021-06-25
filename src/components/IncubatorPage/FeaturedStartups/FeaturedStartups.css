@@ -1,0 +1,93 @@
+.featured-item {
+  padding: 10px 10px;
+}
+.single-item {
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  backdrop-filter: blur(64px);
+}
+.mangoswap-logo {
+  background-color: rgba(227, 227, 227, 0.6);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mangoswap-logo img {
+  padding: 5px;
+  height: 88%;
+}
+.single-item p {
+  padding: 15px 0px;
+  font-size: 13px;
+  color: black;
+  font-weight: 500;
+}
+.single-item h6 {
+  font-size: 17px;
+  color: #000;
+}
+.single-item span {
+  font-size: 12px;
+  font-weight: 500;
+  color: #000;
+}
+.single-item h5 {
+  font-weight: 600;
+  font-size: 18px;
+}
+.progress-bar {
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+  border-radius: 25.5px;
+}
+
+.btn-outline-card {
+  color: #141471 !important;
+  border: 2px solid #141471;
+  background: white;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+}
+.btn-outline-card:hover {
+  background: #141471;
+  color: white !important;
+}
+.slick-prev:before,
+.slick-next:before {
+  font-size: 30px;
+}
+.slick-next:before {
+  margin-right: 10px;
+}
+
+@media (min-width: 768px) {
+  .small-device-Featured {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .featuredSection .slick-prev:before,
+  .featuredSection .slick-next:before {
+    margin-left: 18px !important;
+  }
+  .featured-item {
+    padding: 10px 31px !important;
+  }
+  .featuredSection .slick-next {
+    right: 22px !important;
+  }
+  .large-device-Featured {
+    display: none;
+  }
+  .small-device-Featured {
+    display: block;
+  }
+}

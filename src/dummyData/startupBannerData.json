@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Advice a startup",
+        "image": "https://i.postimg.cc/jwtNK197/advice-startup.png"
+    },
+    {
+        "id": 2,
+        "title": "Join Minority Ventures Cohort",
+        "image": "https://i.postimg.cc/wy2NBV8b/join-minority-ventures-cohort.png"
+    },
+    {
+        "id": 3,
+        "title": "Help <Code/>",
+        "image": "https://i.postimg.cc/CnKqnqwM/help-code.png"
+    }
+]

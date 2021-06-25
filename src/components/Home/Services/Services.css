@@ -1,0 +1,29 @@
+.services,
+.testimonials{
+    background-color: #151371;
+    color: #fff;
+}
+.homeSection-title h1::after{
+    content: "";
+    width: 10%;
+    height: 4px;
+    border: 2px solid #ffa61e;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: .6rem;
+}
+.homeSection-title h5{
+    color: #ffa61e;
+}
+.services-img img,
+.testimonials-img img{
+    height: 100px;
+}
+.courses-items{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
